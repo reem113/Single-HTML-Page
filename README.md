@@ -1,4 +1,4 @@
-#Pure HTML5 & CSS3
+# Pure HTML5 & CSS3
 
 * pure html5 and css3 page to practice UI/UX (colors, spaces, fonts, etc...)
 * Task from Udemy Course: Build Responsive Real World Websites with HTML and CSS
